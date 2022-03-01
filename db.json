@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Investigar sobre Bootstrap",
+      "day": "Agosto 5 a las 19:00",
+      "reminder": false
+    },
+    {
+      "id": 4,
+      "text": "Leer mi libro favorito",
+      "day": "gosto 5 a las 21:00",
+      "reminder": false
+    },
+    {
+      "text": "ir a Raul",
+      "day": "hoy 18:00",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
